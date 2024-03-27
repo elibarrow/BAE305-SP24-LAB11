@@ -1,5 +1,5 @@
 # Lab Report 11 - Data Informatics Week 2
-Eli Barrow
+Eli Barrow  
 April 4, 2024
 
 ## Summary of Lab 11 ##
