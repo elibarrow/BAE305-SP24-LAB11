@@ -11,6 +11,11 @@ April 4, 2024
 The code that I edited had previously been provdided to me for the Lab. The final editied code can be found at this link inside my Lab 11 repository.   
 [Link for Code](https://github.com/elibarrow/BAE305-SP24-LAB11/blob/main/BAE305LAB11.ipynb)
 
+
+There were also two text files that were needed to complete this lab. The link for those files are shown below.   
+[Link for PLimerick Poem](https://github.com/elibarrow/BAE305-SP24-LAB11/blob/main/PLimerick.txt)     
+[Link for Obama Speech](https://github.com/elibarrow/BAE305-SP24-LAB11/blob/main/ObamaFirstInagural.tex)
+
 **NOTE:** I am leaving out the inserted code snippets due to its length.
 
 ## Conclusion of Lab 11 ##
