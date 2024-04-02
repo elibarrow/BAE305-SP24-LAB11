@@ -8,7 +8,7 @@ April 4, 2024
 
 ## Complete Code Used in Lab 11 ##
 
-The code that I edited that had previously been provdided to me for the Lab can be found at this link or inside my Lab 11 repository.   
+The code that I edited had previously been provdided to me for the Lab. It can be found at this link or inside my Lab 11 repository.   
 [Link for Code](https://github.com/elibarrow/BAE305-SP24-LAB11/blob/main/BAE305LAB11.ipynb)
 
 **NOTE:** I am leaving out the inserted code snippets due to its length.
